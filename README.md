@@ -120,4 +120,6 @@ jupyter notebook CUSTOMER_CHURN_PREDICTION.ipynb
 
 #Author
 
-**Name:**Anushka Gupta
+**Name:** Anushka Gupta
+**GITHUB:** [Anushka-code1](https://github.com/Anushka-code1)
+
